@@ -1,0 +1,23 @@
+.#*
+log/
+.cache
+static/build
+run/
+public/
+ghostdriver.log
+\#*
+*~
+*.swp
+*.swo
+.DS_Store
+__pycache__/
+node_modules/
+*.pyc
+data
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
